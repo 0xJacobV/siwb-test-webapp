@@ -25,4 +25,5 @@ App should now be running and accessible at http://localhost:3000
 5. Navigate back to BitGo Web app or refresh current window. 
 6. Sign in using your new account credentials
 
-
+### Troubleshooting
+- If having issues with CORS policy, try using a new incognito window.
