@@ -23,7 +23,6 @@ function LoginInfo(): JSX.Element {
     return (
       <>
         <div style={{ color: 'red' }}>An error occurred during authentication: {error}</div>
-        <button onClick={() => logOut()}>Logout</button>
       </>
     )
   }

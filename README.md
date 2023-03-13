@@ -17,11 +17,12 @@ Run web app
 
 App should now be running and accessible at http://localhost:3000
 
-## Sign In & Sign Up
+## Registration
 1. Click the Sign In button
 2. You will be redirect to the login page.
 3. Click "register" to create a BitGo starter account
-4. Complete the registration process.
-5. Navigate back to BitGo Web app
+4. Complete the registration process. Registration is complete when window is redirected back to localhost:3000
+5. Navigate back to BitGo Web app or refresh current window. 
 6. Sign in using your new account credentials
+
 
